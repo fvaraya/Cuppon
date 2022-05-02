@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img {
+    width: 100px;
+    height: auto;
+}
+
+.card {
+    margin-top: 25px;
+}
+
+.card-body {
+    color: #707070;
+    font-weight: 300;
+}
+.card-text1 {
+    color: #212529;
+    font-size: 1.5rem;
+}
+
+.ubicacion {
+    font-size: 0.8rem;
+    margin-top: -20px;
+    margin-bottom: 8px;
+}
+
+.card-footer {
+    background-color: #ffffff;
+    margin-bottom: -20px;
+}
+
+.precio {
+    font-weight: 500;
+    font-size: 1.5rem;
+    padding-inline: 5px;
+}
+
+.form{
+    padding: 5px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.text-cuppon {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.nombre {
+    padding: 5px;
+    margin-top: -10px;
+}
+
+.email {
+    padding: 5px;
+    padding-bottom: 10px;
+}
+
+.btn {
+    padding: 4px 40px 4px 40px;
+    text-align: center;
+    margin-left: 125px;
+}
+
+.footer {
+    margin: 25px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.footer img {
+    width: 100px;
+    height: auto; 
+}
